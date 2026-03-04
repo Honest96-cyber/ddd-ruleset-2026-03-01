@@ -1,0 +1,16 @@
+DAO DAO DAO (DDD) — Canonical Public Governance Package
+
+Ruleset ID: DDD-RULESET-2026-03-01
+
+Canonical download:
+- GitHub Release asset: DDD_Publication_Package_PUBLISH_READY_RedGreen_POLISHED_v2.zip
+
+Verification inside the ZIP:
+- 00_Start_Here/DDD_Landing_Start_Here_RedGreen.pdf
+- 00_Start_Here/MANIFEST.sha256.json
+
+Integrity rule:
+If any file hash differs from MANIFEST.sha256.json, it is not canonical.
+
+Note:
+Governance-only publication. Proprietary implementation details are intentionally excluded.

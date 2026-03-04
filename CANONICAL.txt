@@ -14,3 +14,4 @@ If any file hash differs from MANIFEST.sha256.json, it is not canonical.
 
 Note:
 Governance-only publication. Proprietary implementation details are intentionally excluded.
+Mirror (Google Drive):https://drive.google.com/file/d/1IKoPLBhYm99uqwB-EsxlyaTzSlXw4f-W/view?usp=drivesdk

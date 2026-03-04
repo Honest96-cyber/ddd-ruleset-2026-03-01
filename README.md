@@ -12,3 +12,4 @@ Start here:
 - `00_Start_Here/DDD_Landing_Start_Here_RedGreen.pdf`
 
 Governance-only publication. Proprietary implementation details are intentionally excluded.
+Mirror (Drive):https://drive.google.com/file/d/1IKoPLBhYm99uqwB-EsxlyaTzSlXw4f-W/view?usp=drivesdk
